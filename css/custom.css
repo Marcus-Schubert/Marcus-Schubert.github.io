@@ -144,6 +144,7 @@ a:hover {
 .quote {
   background: url(../img/bg.jpg);
   background-size: cover;
+  background-position: top center;
   padding: 20px 0px;
   margin-top: 120px; }
   .quote h1 {
